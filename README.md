@@ -1,6 +1,6 @@
 # Educational resources
 
-This repository is a compact collection of training materials for the ProteoBench/Post-processing workflows, with a focus on notebook-based tutorials that are easy to run and explore.
+This repository is a compact collection of training materials for ProteoBench, with a focus on notebook-based tutorials that are easy to run and explore.
 
 ## Tutorial notebooks
 
