@@ -49,7 +49,7 @@ To explore in depth the differences between the workflow runs `MaxQuant_20250605
 
 The module [Entrapment DIA ion Astral](https://proteobench.cubimed.rub.de/Entrapment_DIA_ion_Astral) is designed to evaluate the ability of the software tools to estimate the false discovery proportion (FDP) in DIA data acquired on an Astral instrument.
 
-**Q6.** What allows us to estimate the proportion of incorrect identifications in these data? Tip: it is in the FASTA.
+**Q6.** What does allow us to estimate the proportion of incorrect identifications in these data? Tip: it is in the FASTA.
 
 **Q7.** Would the results of this module be the same if the data used as workflow input were generated with a timsTOF?
 
