@@ -45,23 +45,27 @@ Find the points `MaxQuant_20250605_123112` and `MaxQuant_20250605_121216`. These
 To explore in depth the differences between the workflow runs `MaxQuant_20250605_123112` and `MaxQuant_20250605_121216`, you can go to the tab `View Single Result`, and select one run. ProteoBench will generate in-depth plots that will help you to identify reasons for performance differences.
 :::
 
+In the tab "Upload New Results (Private)", it is written _"Remember: contaminant sequences are already present in the fasta file associated to this module. Do not add other contaminants to your search. This is important when using MaxQuant and FragPipe, among other tools."_. 
+
+**Q6.** Why is it important not to add other contaminants to your search in this module?
+
 ### Module Entrapment DIA ion Astral
 
 The module [Entrapment DIA ion Astral](https://proteobench.cubimed.rub.de/Entrapment_DIA_ion_Astral) is designed to evaluate the ability of the software tools to estimate the false discovery proportion (FDP) in DIA data acquired on an Astral instrument.
 
-**Q6.** What does allow us to estimate the proportion of incorrect identifications in these data? Tip: it is in the FASTA.
+**Q7.** What does allow us to estimate the proportion of incorrect identifications in these data? Tip: it is in the FASTA.
 
-**Q7.** Would the results of this module be the same if the data used as workflow input were generated with a timsTOF?
+**Q8.** Would the results of this module be the same if the data used as workflow input were generated with a timsTOF?
 
 ### Other modules
 
-**Q8.** Does a high number of quantified precursor ions in the "Quant LFQ" modules mean that the precursor ions are correctly identified?
+**Q9.** Does a high number of quantified precursor ions in the "Quant LFQ" modules mean that the precursor ions are correctly identified?
 
-**Q9.** Why are some modules archived? What does this mean?
+**Q10.** Why are some modules archived? What does this mean?
 
-**Q10.** What type of data is not present in any ProteoBench module and would be of interest to you?
+**Q11.** What type of data is not present in any ProteoBench module and would be of interest to you?
 
-**Q11.** What is the difference between "ALPHA" and "BETA" modules?
+**Q12.** What is the difference between "ALPHA" and "BETA" modules?
 
 
 ## Let us know
